@@ -35,8 +35,8 @@ schedule:
         end: 10:00 AM
         location: Tao
       - name: Office Hours
-        start: 11:00 AM
-        end: 1:00 PM
+        start: 12:00 PM
+        end: 2:00 PM
         location: Ajit
       - name: Office Hours
         start: 3:00 PM
@@ -125,7 +125,7 @@ schedule:
       - name: Office Hours
         start: 7:00 PM
         end: 9:00 PM
-        location: Hitomi, Ajit
+        location: Hitomi
   - name: Thursday
     events:
       - name: Office Hours
@@ -151,7 +151,7 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
-        location: Kimia
+        location: Kimia, Ajit
       - name: Office Hours
         start: 5:00 PM
         end: 7:00 PM
